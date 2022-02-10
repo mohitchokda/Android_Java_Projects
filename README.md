@@ -6,7 +6,7 @@ Here is the list of projects along with the technologies used so you could learn
 # List of Projects : 
 
 # 1. Java Projects :
-   ### a) StopWatch using Java and swings
+   ### a) [StopWatch using Java and swings](/../gh-pages/docs/index.md)
    ### b) Managing Attendace using Face Recognition using Java and TenserFlow
    
 # 2. Gaming Projects :
